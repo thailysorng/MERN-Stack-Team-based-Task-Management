@@ -1,1 +1,0 @@
-# MERN-Stack-Team-based-Task-Management
